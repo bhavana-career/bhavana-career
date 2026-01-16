@@ -6,7 +6,7 @@ I'm a B.E Software Engineering student interested in Full-Stack Development, AI/
 - Full-Stack Development
 - UI/UX 
 - DSA using C++
-- MySQL & Basic backend
+- MySQL & Basic Backend
 - Open-Source
 - AI/ML
 ![C++](https://img.shields.io/badge/C++-blue)
@@ -17,11 +17,11 @@ I'm a B.E Software Engineering student interested in Full-Stack Development, AI/
 - **Languages:** C++, HTML, CSS, MongoDB, JavaScript and Bootstrap
 - **Database:** MySQL
 - **Tools:** Git, GitHub, VS Code. 
-- **Growing into:** React & backend development
+- **Growing into:** React & Backend Development
 
 
 ### 📫 Connect with me:
-•LinkedIn
+• LinkedIn
 • GitHub 
 • Email
 • Instagram
