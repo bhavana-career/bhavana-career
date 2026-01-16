@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm Bhavana!!
 
-<!--
-**bhavana-career/bhavana-career** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BE Software Engineering student interested in Full-Stack Development, AI/ML and DSA in C++ ✨
 
-Here are some ideas to get you started:
+### 🌱 I’m currently learning:
+- Full-Stack Development
+- UI/UX
+- DSA using C++
+- MySQL & Basic backend
+- Open-Source
+- AI/ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🧰 Tech I use / learning:
+- **Languages:** C++, HTML, CSS, MongoDB, javascript and Bootstrap
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code, 
+- **Growing into:** React & backend development
+
+
+### 📫 Connect with me:
+•LinkedIn
+• GitHub 
+• Email
+• Instagram
