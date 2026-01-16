@@ -23,3 +23,7 @@ I'm a BE Software Engineering student interested in Full-Stack Development, AI/M
 • GitHub 
 • Email
 • Instagram
+
+![C++](https://img.shields.io/badge/C++-blue)
+![MySQL](https://img.shields.io/badge/MySQL-orange)
+![UI%2FUX](https://img.shields.io/badge/UI%2FUX-pink)
