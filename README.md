@@ -1,6 +1,6 @@
 # Hey, I'm Bhavana!!
 
-I'm a BE Software Engineering student interested in Full-Stack Development, AI/ML and DSA in C++ ✨
+I'm a B.E Software Engineering student interested in Full-Stack Development, AI/ML and DSA in C++ ✨
 
 ### 🌱 I’m currently learning:
 - Full-Stack Development
@@ -14,9 +14,9 @@ I'm a BE Software Engineering student interested in Full-Stack Development, AI/M
 ![UI%2FUX](https://img.shields.io/badge/UI%2FUX-pink)
 
 ### 🧰 Tech I use / learning:
-- **Languages:** C++, HTML, CSS, MongoDB, javascript and Bootstrap
+- **Languages:** C++, HTML, CSS, MongoDB, JavaScript and Bootstrap
 - **Database:** MySQL
-- **Tools:** Git, GitHub, VS Code, 
+- **Tools:** Git, GitHub, VS Code. 
 - **Growing into:** React & backend development
 
 
