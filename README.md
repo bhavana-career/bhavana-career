@@ -4,9 +4,9 @@ I'm a BE Software Engineering student interested in Full-Stack Development, AI/M
 
 ### 🌱 I’m currently learning:
 - Full-Stack Development
-- UI/UX
-- DSA using C++
-- MySQL & Basic backend
+- UI/UX ![UI/UX](badge)
+- DSA using C++ ![C++](badge)
+- MySQL & Basic backend ![MySQL](badge)
 - Open-Source
 - AI/ML
 
@@ -24,6 +24,3 @@ I'm a BE Software Engineering student interested in Full-Stack Development, AI/M
 • Email
 • Instagram
 
-![C++](https://img.shields.io/badge/C++-blue)
-![MySQL](https://img.shields.io/badge/MySQL-orange)
-![UI%2FUX](https://img.shields.io/badge/UI%2FUX-pink)
