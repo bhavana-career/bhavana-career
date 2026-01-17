@@ -7,7 +7,7 @@ I'm a B.E Software Engineering student interested in Full-Stack Development, AI/
 - UI/UX 
 - DSA using C++
 - MySQL & Basic Backend
-- Open-Source
+- Open-Source Contribution
 - AI/ML
 ![C++](https://img.shields.io/badge/C++-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-orange)
