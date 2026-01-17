@@ -17,7 +17,7 @@ I'm a B.E Software Engineering student interested in Full-Stack Development, AI/
 - **Languages:** C++, HTML, CSS, MongoDB, JavaScript and Bootstrap
 - **Database:** MySQL
 - **Tools:** Git, GitHub, VS Code. 
-- **Growing into:** React & Backend Development
+- **Growing into:** React & Backend Development 
 
 
 ### 📫 Connect with me:
