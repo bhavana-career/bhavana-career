@@ -20,8 +20,8 @@ I'm a B.E Software Engineering student interested in Full-Stack Development, AI/
 - **Growing into:** React & Backend Development 
 
 
-### 📫 Connect with me:
-• LinkedIn
+### 📫 Connect with me!!:
+• LinkedIn 
 • GitHub 
 • Email
 • Leetcode
