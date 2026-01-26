@@ -1,4 +1,4 @@
-# Hey, I'm Bhavana!!
+# Hey, I'm Bhavana!! 
 
 I'm a B.E Software Engineering student interested in Full-Stack Development, AI/ML and DSA in C++ ✨
 
@@ -9,9 +9,7 @@ I'm a B.E Software Engineering student interested in Full-Stack Development, AI/
 - MySQL & Basic Backend
 - Open-Source Contribution
 - AI/ML
-![C++](https://img.shields.io/badge/C++-blue)
-![MySQL](https://img.shields.io/badge/MySQL-orange)
-![UI%2FUX](https://img.shields.io/badge/UI%2FUX-pink)         
+     
 
 ### 🧰 Tech I use / learning:
 - **Languages:** C++, HTML, CSS, MongoDB, JavaScript and Bootstrap
