@@ -22,7 +22,6 @@ I'm a B.E Software Engineering student interested in Full-Stack Development, AI/
 • LinkedIn 
 • GitHub 
 • Email
-• Leetcode
 • Instagram
 
 
