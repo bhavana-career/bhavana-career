@@ -21,6 +21,9 @@ I'm a B.E Software Engineering student interested in Full-Stack Development, AI/
 ### 📫 Connect with me!!:
 • LinkedIn 
 • GitHub 
+• Instagram
+• Email
+
 
 
 
