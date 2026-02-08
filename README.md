@@ -1,6 +1,6 @@
 # Hey, I'm Bhavana!
 
-I'm a B.E Software Engineering student interested in Full-Stack Development, AI/ML and DSA in C++ ✨
+I'm a B.E Software Engineering student interested in Full-Stack Development, AI/ML and DSA in C++ 
 
 ### 🌱 I’m currently learning:
 - Full-Stack Development.
