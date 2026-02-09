@@ -3,11 +3,11 @@
 I'm a B.E Software Engineering student interested in Full-Stack Development, AI/ML and DSA in C++ 
 
 ### 🌱 I’m currently learning:
-- Full-Stack Development.
-- UI/UX.
-- DSA using C++.
-- MySQL & Basic Backend.
-- Open-Source Contribution.
+- Full-Stack Development
+- UI/UX
+- DSA using C++
+- MySQL & Basic Backend
+- Open-Source Contribution
      
 
 ### 🧰 Tech I use / learning:
