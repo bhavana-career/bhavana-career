@@ -15,7 +15,7 @@ I'm a B.E Software Engineering student
 
 ### Connect with me!!!:
 • LinkedIn 
-• Email
+• Portfolio
 
 
 
