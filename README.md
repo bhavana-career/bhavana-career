@@ -2,19 +2,6 @@
 
 ## AI & Full-Stack Developer | Information Science Engineering Student
 
-I am an Information Science Engineering student at The National Institute of Engineering (NIE), Mysuru, passionate about building AI-powered applications and scalable full-stack solutions. I enjoy solving real-world problems through Generative AI, modern web technologies, and data-driven applications.
-
----
-
-## About Me
-
-- B.E. Information Science and Engineering (Expected 2027)
-- Building AI-powered applications using Large Language Models
-- Interested in Full-Stack Development, AI Systems, and Workflow Automation
-- Continuously learning scalable software architecture and cloud technologies
-
----
-
 ## Tech Stack
 
 | Category | Technologies |
